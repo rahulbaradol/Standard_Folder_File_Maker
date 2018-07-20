@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Standard Folder File Maker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Standard_Folder_File_Maker_jar</output-path>
+    <root id="archive" name="Standard Folder File Maker.jar">
+      <element id="module-output" name="Standard Folder File Maker" />
+      <element id="extracted-dir" path="C:/Matrial Design/jfoenix.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
